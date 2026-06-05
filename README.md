@@ -2,26 +2,14 @@
 Graphic Designing Internship Tasks - Rhombix Technologies
 
 
-# Task 1 - Social Media Post Design
+## Tasks
 
-This task was completed as part of the Graphic Designing Internship at Rhombix Technologies.
+### Task 1 - Social Media Post Design
+Designed a promotional social media post using Canva.
 
-Tools Used:
-- Canva
-
-Description:
-Designed a social media post for promotional purposes, focusing on typography, color balance, layout, and visual appeal.
-
-
-# Task 2 - Logo Design
-
-This task was completed as part of the Graphic Designing Internship at Rhombix Technologies.
-
-Brand Name:
-UrbanWear
+### Task 2 - Logo Design
+Created logo variations for a fictional fashion brand named UrbanWear.
 
 Tools Used:
 - Canva
-
-Description:
-Designed logo variations including icon-only, text-only, and full-logo versions for a fictional fashion brand.
+- GitHub
