@@ -1,9 +1,30 @@
-# Task 1 - Social Media Post Design
+# Task 1: Social Media Post Design
 
-This task was completed as part of the Graphic Designing Internship at Rhombix Technologies.
+## Objective
 
-Tools Used:
-- Canva
+To design a visually appealing social media post for an event, sale, or product promotion.
 
-Description:
-Designed a social media post for promotional purposes, focusing on typography, color balance, layout, and visual appeal.
+## Description
+
+This project was created as part of the Graphic Designing Internship at Rhombix Technologies. The design focuses on proper typography, color harmony, visual hierarchy, and an effective call-to-action.
+
+## Tools Used
+
+* Canva
+
+## Files Included
+
+* social_post.png
+* social_post.pdf
+
+## Skills Learned
+
+* Social Media Design
+* Typography
+* Color Theory
+* Layout Composition
+* Visual Communication
+
+## Internship
+
+Rhombix Technologies
