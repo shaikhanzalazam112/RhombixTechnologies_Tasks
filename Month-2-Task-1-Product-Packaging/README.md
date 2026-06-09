@@ -1,10 +1,14 @@
 # Product Packaging Redesign
 
-Brand: FreshBurst Juice
+## Task
+Redesign a product packaging with a modern and attractive look.(Orange Juice)
 
-Tools Used:
-- Canva
+## Tool Used
+Canva
 
-Files:
+## Deliverables
 - Front View
 - Back View
+
+## Intern
+Anzal Azam Shaikh
