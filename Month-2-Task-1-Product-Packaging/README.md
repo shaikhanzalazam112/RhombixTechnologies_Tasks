@@ -1,14 +1,20 @@
 # Product Packaging Redesign
 
-## Task
-Redesign a product packaging with a modern and attractive look.(Orange Juice)
+## Objective
+Redesign an existing product packaging with a modern and attractive look.
 
-## Tool Used
-Canva
+## Product Chosen
+Freshvita Juice (Fictional Brand)
+
+## Tools Used
+- Canva
 
 ## Deliverables
-- Front View
-- Back View
+- Front View Design
+- Back View Design
 
-## Intern
-Anzal Azam Shaikh
+## Skills Practiced
+- Branding
+- Color Theory
+- Typography
+- Packaging Design
