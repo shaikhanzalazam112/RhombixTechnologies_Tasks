@@ -54,20 +54,43 @@ Designed a professional tri-fold brochure for a fictional fast-food brand "Burge
 
 ---
 
+## 📅 Month 3
+
+### Task 1 – Brand Identity Kit
+Designed a complete Brand Identity Kit for **Rhombix Technologies**, including:
+
+- Cover Page
+- Primary Logo
+- Logo Variations
+- Logo Mark
+- Color Palette
+- Typography Guide
+- Business Card
+- Letterhead
+- Tote Bag Mockup
+- Mug Mockup
+- Brand Application
+- Brand Tagline
+
+---
+
+
 ## 🛠 Tools Used
 - Canva
-- Illustrator (optional)
 
 ---
 
 ## 🎯 Skills Learned
 - Graphic Design Fundamentals
-- Branding & Identity Design
-- Layout Composition
+- Brand Identity Design
+- Logo Design
 - Typography
 - Color Theory
-- Print Design (Brochure)
-- Social Media Design
+- Layout Composition
+- Print Design
+- Mockup Design
+- Packaging Design
+- Branding & Visual Identity
 
 ---
 
@@ -76,7 +99,8 @@ Each task includes:
 - Final design (PNG/PDF)
 - Source file (Canva link or editable file)
 - Thumbnail (where required)
-
+- README Documentation
+  
 ---
 
 ## 👤 Intern
@@ -85,4 +109,4 @@ Anzal Azam Shaikh
 ---
 
 ## 📌 Note
-All designs are created as part of internship learning tasks and are based on fictional brands
+All projects in this repository were created as part of my **Graphic Designing Internship at Rhombix Technologies** for learning and portfolio purposes. Some projects use fictional brands while others are created for internship assignments.
