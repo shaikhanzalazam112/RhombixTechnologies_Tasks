@@ -11,16 +11,21 @@ Graphic Designing
 
 ---
 
-## 📁 Repository Structure
+📁 Repository Structure
+
 RhombixTechnologies_Tasks
 │
 ├── Month-1
-│ ├── Task-1_Social-Media-Post
-│ └── Task-2_Logo-Design
+│   ├── Task-1-Social-Media-Post
+│   └── Task-2-Logo-Design
 │
 ├── Month-2
-│ ├── Task-1_Product-Packaging
-│ └── Task-2_TriFold-Brochure
+│   ├── Task-1-Product-Packaging
+│   └── Task-2-TriFold-Brochure
+│
+├── Month-3
+│   ├── Task-1-Brand-Identity-Kit
+│   └── Task-2-Website-Landing-Page
 │
 └── README.md
 
@@ -72,11 +77,26 @@ Designed a complete Brand Identity Kit for **Rhombix Technologies**, including:
 - Brand Application
 - Brand Tagline
 
+#### Task 2: Website Landing Page Design (UI Only)
+Designed a modern SaaS-style website landing page in Figma focusing on:
+
+- Hero Section
+- Call-to-Action Buttons
+- Features Section
+- Statistics Section
+- Testimonials
+- Pricing Plans
+- FAQ Section
+- Footer Design
+
+The design emphasizes user experience, layout consistency, typography, spacing, and modern UI principles.
+
 ---
 
 
 ## 🛠 Tools Used
 - Canva
+- Figma
 
 ---
 
@@ -91,6 +111,9 @@ Designed a complete Brand Identity Kit for **Rhombix Technologies**, including:
 - Mockup Design
 - Packaging Design
 - Branding & Visual Identity
+- - UI/UX Design Basics
+- Website Landing Page Design
+- Visual Communication
 
 ---
 
