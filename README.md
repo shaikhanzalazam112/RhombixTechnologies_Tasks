@@ -93,6 +93,39 @@ The design emphasizes user experience, layout consistency, typography, spacing, 
 
 ---
 
+## 📅 Month 4
+
+### Task 1: Complete Social Media Branding Kit
+
+Designed a complete social media branding kit for a fictional skincare brand **Glow Skin** while maintaining a consistent visual identity across different social media platforms.
+
+#### Deliverables
+
+- Brand Cover Page
+- Profile Picture / Logo
+- Facebook Cover
+- LinkedIn Banner
+- Instagram Post Template
+- Instagram Story Template
+- Story Highlight Icons
+- Brand Style Guide
+- Instagram Profile Preview
+
+#### Design Highlights
+
+- Nature-inspired green color palette
+- Modern and minimal branding
+- Consistent typography
+- Professional social media layouts
+- Brand identity guidelines
+- Instagram profile mockup
+
+**Tools Used:** Canva, AI-generated assets
+
+### Task 2: Full Portfolio Project – Campaign Design *(To be completed)*
+
+
+
 
 ## 🛠 Tools Used
 - Canva
